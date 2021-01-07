@@ -1,11 +1,12 @@
 body{
 	background: #562;
-	text-align: center;
+    text-align: center;
 }
 form{
-	display: inline-block;
-	width: 50%;
+	margin: auto;
+	width: 30%;
 	padding: 30px;
+	background: #450;
 }
 input{
 	width: 70%;
