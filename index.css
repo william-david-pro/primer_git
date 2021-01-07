@@ -1,0 +1,19 @@
+body{
+	background: #562;
+	text-align: center;
+}
+form{
+	display: inline-block;
+	width: 50%;
+	padding: 30px;
+}
+input{
+	width: 70%;
+	margin-bottom: 20px;
+}
+input[type="submit"]{
+	width: 30%;
+}
+input:focus{
+	border: 3px solid:#5a2;
+}
