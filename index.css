@@ -15,5 +15,5 @@ input[type="submit"]{
 	width: 30%;
 }
 input:focus{
-	border: 3px solid:#5a2;
+	background: #9b4;
 }
