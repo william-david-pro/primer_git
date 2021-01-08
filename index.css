@@ -9,12 +9,29 @@ form{
 	background: #450;
 }
 input{
-	width: 70%;
+	width: 90%;
 	margin-bottom: 20px;
 }
 input[type="submit"]{
-	width: 30%;
+	width: 50%;
+	text-transform: uppercase;
+	background: #9b4;
 }
 input:focus{
-	background: #9b4;
+	background: #360;
+}
+textarea{
+	min-width: 90%;
+	max-width: 90%;
+	min-height: 100px;
+	max-height: 200px;
+}
+select{
+	display: block;
+	width: 60%;
+	margin: 20px 0 20px 10px;
+
+}
+p{
+	color: #ff0;
 }
